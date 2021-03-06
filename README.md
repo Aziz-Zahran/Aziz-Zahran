@@ -35,5 +35,10 @@
 <br />
 
 ---
-### My github stats 📕
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=Datsui&&show_icons=true&title_color=BLURPLE&icon_color=BLURPLE&text_color=daf7dc&bg_color=151515">
+
+</details>
