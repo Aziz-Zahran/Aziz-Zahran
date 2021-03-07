@@ -3,10 +3,9 @@
 
 - 🔭 I’m currently working on Discord bot
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me: [Instagram - @cc.sui](https://www.instagram.com/cc.sui/) , Discord - Sui#6444
+- 📫 How to reach me: [Instagram - @cc.sui](https://www.instagram.com/cc.sui/) , [Discord - Sui#6444](https://discord.com/users/774074653480189963)
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I spend most my time learning new things
  ---
 ### Spotify Playing 🎧
  
