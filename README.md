@@ -38,7 +38,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-<img align= "center " alt= "Statistics " src="https://github-readme-stats.vercel.app/api?username=Datsui&&show_icons=true&title_color=BLURPLE&icon_color=BLURPLE&text_color=daf7dc&bg_color=151515">
-<img align= "center " alt="Most used languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Datsui&show_icons=true&show_icons=true&title_color=&icon_color=BLURPLE&text_color=BLURPLE&bg_color=151515&hide_border=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Datsui&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datsui&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
 
 </details>
