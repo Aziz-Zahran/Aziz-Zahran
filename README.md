@@ -2,12 +2,8 @@
 
 
 
-  [Instagram - @gg.sui](https://www.instagram.com/gg.sui/) , [Discord - Sui#6444](https://discord.com/users/774074653480189963)
+  [Instagram - @cc.sui](https://www.instagram.com/cc.sui/) , [Discord - Sui#6444](https://discord.com/users/774074653480189963)
 
- ---
-### Spotify Playing 🎧
- 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Sui Spotify Playing" width="350" />](https://open.spotify.com/user/2urshb0wjszxhtxla27w198zw  ) 
  ---
 
 ### Languages and Tools:
