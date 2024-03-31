@@ -2,7 +2,7 @@
 
 
 
-  [Instagram - @cc.sui](https://www.instagram.com/cc.sui/) , [Discord - Sui#6444](https://discord.com/users/774074653480189963)
+
 
  ---
 
