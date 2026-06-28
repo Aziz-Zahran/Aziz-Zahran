@@ -1,6 +1,7 @@
 ### Hey There, I'm Aziz
 ---
 Data science enthusiast
+
 Student at German Jordanian University
 
 ## 🌐 Socials:
